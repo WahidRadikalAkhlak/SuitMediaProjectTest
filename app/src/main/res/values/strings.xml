@@ -3,4 +3,6 @@
     <string name="firstname">FirstName</string>
     <string name="lastname">LastName</string>
     <string name="email">EMAIL@EMAIL.COM</string>
+    <string name="name">John Doe\n</string>
+    <string name="username">Selected User Name</string>
 </resources>
